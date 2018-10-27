@@ -1,0 +1,41 @@
+body {
+      background-color: #2d2d2d ;
+    }
+    .navbar{
+
+      width: 100%;
+    }
+
+    .jumbotron{
+      text-align: center;
+      margin-bottom: 0.5em;
+      justify-content: center;
+
+    }
+
+    .form-inline{
+      display: inline;
+    }
+
+    #jumbotron1{
+      background-image: url("img/training1-1.jpg"); 
+      color: #fff;
+
+    }
+    #jumbotron2{
+
+    background-image: url("img/basketball2.jpg");
+    }
+    #email {
+      width: 300px;
+    }
+
+    .card {
+      background-color: #F8F9FA;
+    }
+
+    @media (max-width: 575.98px) {
+      .form-control {
+        display:inline;
+      }
+    }
